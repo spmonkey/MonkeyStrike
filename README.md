@@ -12,7 +12,7 @@ Monkey Strike 是一个强大的网络安全扫描工具，旨在帮助安全研
   - **服务漏洞**：Samba（CVE-2017-7494）、Telnet 弱口令、SSL/TLS（Heartbleed、POODLE、BEAST、FREAK、CRIME）。
 - **Web 爬虫**：自动提取目标网站的 URL、表单和 API 端点。
 - **CVE 查询**：获取 CVE 详细信息。
-- **报告生成**：生成 JSON 格式的扫描报告。
+- **报告生成**：生成 html 格式的扫描报告。
 - **高并发**：优化性能，支持高效扫描。
 - **日志记录**：详细日志保存至 `logs/scan.log` 并在 GUI 中显示。
 
