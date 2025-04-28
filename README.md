@@ -83,4 +83,4 @@ Monkey Strike 是一个强大的网络安全扫描工具，旨在帮助安全研
 - 作者：spmonkey
 - 群聊：加入我们的交流群，获取技术支持和更新通知！
 扫描以下二维码加入：
-![群聊二维码](images/qr_code.png)
+![群聊二维码](images/qr_code.jpg)
